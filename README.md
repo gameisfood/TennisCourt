@@ -1,5 +1,6 @@
 # TennisCourt
 A test program that can map lines on a Tennis court from an image.
+
 Developed on Xcode(C++11) and OpenCV-3.1.0.
 
 # Classes
@@ -29,7 +30,10 @@ The program is capable of processing 30 frames/second on a single thread. Howeve
 
 #Screenshots
 ![alt tag](http://modmygad.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-14-at-10.02.42-AM.png)
+Lines mapped on the Hough image.
+
 ![alt tag](http://modmygad.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-10.37.17-PM.png)
+Lines mapped on the source image.
 
 ## Copyright
 Copyright 2016 Sidharth Agarwal
